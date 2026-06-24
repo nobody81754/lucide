@@ -37,7 +37,7 @@ ${l}`}}if((0,n.U5)("rewriterLogs",r.base))for(let e of s.errors)(()=>{})("oxc pa
             <html>
                 <head>
                     <meta charset="utf-8" />
-                    <title>Scramjet</title>
+                    <title>Scramfart</title>
                     <style>
                     :root {
                         --deep: #080602;
