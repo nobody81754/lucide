@@ -172,12 +172,14 @@ ${l}`}}if((0,n.U5)("rewriterLogs",r.base))for(let e of s.errors)(()=>{})("oxc pa
                                     <li>Clearing the site data</li>
                                     <li>Contacting <b id="hostname"></b>'s administrator</li>
                                     <li>Verify the server isn't censored</li>
+									<li>Verifying that your not a noob</li>
                                 </ul>
                                 <p>If you're the administrator of <b id="hostname"></b>, try:</p>
                                     <ul>
                                     <li>Restarting your server</li>
                                     <li>Updating Scramjet</li>
                                     <li>Troubleshooting the error on the <a href="https://github.com/MercuryWorkshop/scramjet" target="_blank">GitHub repository</a></li>
+									<li>Getting some skill</li>
                                 </ul>
                             </div>
                         </div>
